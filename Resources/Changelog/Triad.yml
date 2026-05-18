@@ -698,3 +698,12 @@ Entries:
   id: 2206
   time: '2026-05-18T02:50:47.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/97
+- author: Wuffindy
+  changes:
+    - type: Tweak
+      message: >-
+        Suit sensor now defaults to coords on spawn, you can still change it
+        whenever & wherever
+  id: 2207
+  time: '2026-05-18T23:58:09.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/98
