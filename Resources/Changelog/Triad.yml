@@ -730,3 +730,20 @@ Entries:
   id: 2210
   time: '2026-05-19T03:55:41.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/101
+- author: Monolith
+  changes:
+    - type: Tweak
+      message: Asteroids no longer produce infection anomalies
+    - type: Tweak
+      message: 'Rebalanced almost every Energy/mining shipgun:'
+    - type: Tweak
+      message: Significantly nerfed ship ramming.
+    - type: Tweak
+      message: Nerfed ASF-59 "Flail" health.
+    - type: Tweak
+      message: Nerfed ASF-59-B "Mace" health.
+    - type: Tweak
+      message: Buffed projectile speeds of several shipguns
+  id: 2211
+  time: '2026-05-19T06:51:44.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/102
