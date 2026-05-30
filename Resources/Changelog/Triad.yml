@@ -1074,3 +1074,10 @@ Entries:
   id: 2247
   time: '2026-05-30T19:24:22.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/149
+- author: SislenC
+  changes:
+    - type: Tweak
+      message: 'Removed damage from DT-12 Lawbringer''s disabler round to match PR #113.'
+  id: 2248
+  time: '2026-05-30T23:05:09.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/167
