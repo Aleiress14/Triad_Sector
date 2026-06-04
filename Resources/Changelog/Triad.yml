@@ -1233,3 +1233,10 @@ Entries:
   id: 2262
   time: '2026-06-04T02:17:12.0000000+00:00'
   url: https://github.com/Triad-Sector/Triad_Sector/pull/115
+- author: Wuffindy
+  changes:
+    - type: Tweak
+      message: Adjusted drop pod and contra crates lootpool
+  id: 2263
+  time: '2026-06-04T02:37:41.0000000+00:00'
+  url: https://github.com/Triad-Sector/Triad_Sector/pull/134
