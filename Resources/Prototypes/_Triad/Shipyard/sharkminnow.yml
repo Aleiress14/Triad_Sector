@@ -10,7 +10,7 @@
   id: sharkminnow
   parent: BaseVessel
   name: BIT Sharkminnow
-  description: A medium sized missile frigate inspired by the ferocious Sharkminnow. Carp not included.
+  description: A medium sized missile frigate with a chemistry setup inspired by the ferocious Sharkminnow. Carp not included.
   price: 125000
   category: Medium
   group: Shipyard
@@ -18,8 +18,9 @@
   #guidebookPage: null
   class:
   - Pursuit
+  - Medical
   engine:
-  - Uranium
+  - Plasma
 
 - type: gameMap
   id: sharkminnow
