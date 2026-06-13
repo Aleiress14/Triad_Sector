@@ -8,13 +8,13 @@
 
 - type: vessel
   id: sharkminnow
+  id: Sharkminnow
   parent: BaseVessel
   name: BIT Sharkminnow
   description: A medium sized missile frigate with a chemistry setup inspired by the ferocious Sharkminnow. Carp not included.
   price: 125000
   category: Medium
   group: Shipyard
-  access: Mercenary
   shuttlePath: /Maps/_Triad/Shuttles/sharkminnow.yml
   #guidebookPage: null
   class:
@@ -24,8 +24,8 @@
   - Plasma
 
 - type: gameMap
-  id: sharkminnow
-  mapName: 'sharkminnow'
+  id: Sharkminnow
+  mapName: 'Sharkminnow'
   mapPath: /Maps/_Triad/Shuttles/sharkminnow.yml
   minPlayers: 0
   stations:
